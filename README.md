@@ -87,6 +87,14 @@ Hey! I'm **Saku** — a developer who likes experimenting, building useful stuff
 
 </div>
 
+## <code>06 / CONTRIBUTION SNAKE</code>
+
+<div align="center">
+
+![Contribution snake](https://raw.githubusercontent.com/saku168/saku168/output/github-contribution-grid-snake.svg)
+
+</div>
+
 ---
 
 <div align="center"><sub><code>EOF // Thanks for visiting.</code></sub><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:245C94,50:0B1D35,100:050A14&animation=fadeIn" /></div>
