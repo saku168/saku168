@@ -1,109 +1,105 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071426,35:102B4E,70:174A78,100:2563A6&text=SAKU168&fontSize=82&fontColor=EAF3FF&fontAlignY=40&desc=WELCOME%20TO%20MY%20DIGITAL%20SPACE&descSize=17&descAlignY=64&descColor=8DB9E8&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050A14,30:0B1D35,70:163B63,100:245C94&text=SAKU168&fontSize=90&fontColor=EAF3FF&fontAlignY=38&desc=DEVELOPER%20%7C%20CREATIVE%20CODER&descSize=18&descAlignY=62&descColor=8DB9E8&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=8DB9E8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Building+things+that+make+life+easier;Learning.+Building.+Improving." />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&color=8DB9E8&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Saku+%E2%9C%A6;Developer+%7C+Creative+Coder;Building+tools+and+exploring+ideas;Code.+Create.+Improve." />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SAKU168-102B4E?style=for-the-badge&labelColor=071426&color=102B4E" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-2563A6?style=for-the-badge&labelColor=071426" />
-<img src="https://img.shields.io/badge/LEARNING-ALWAYS-8DB9E8?style=for-the-badge&labelColor=071426&logoColor=071426" />
+[![GitHub](https://img.shields.io/badge/GitHub-saku168-0B1D35?style=flat&logo=github&logoColor=EAF3FF)](https://github.com/saku168)
+![Focus](https://img.shields.io/badge/Focus-Development-163B63?style=flat)
+![Status](https://img.shields.io/badge/Mindset-Always%20Learning-245C94?style=flat)
 
 </div>
 
 ---
 
-## 01 / ABOUT ME
+<h2 align="center">About me</h2>
+
+<div align="center">
+
+> Exploring code, building projects and turning ideas into reality.
+
+</div>
 
 ```js
 const saku = {
-  username: "saku168",
-  role: "Developer",
-  technologies: ["HTML", "CSS", "JavaScript", "Node.js"],
-  systems: ["Linux", "Windows"],
-  interests: [
-    "Creative coding",
-    "Developer tools",
-    "Automation",
-    "Open source"
-  ],
-  motto: "Code. Create. Improve."
+    username: "saku168",
+    role: "Developer",
+    languages: ["HTML", "CSS", "JavaScript"],
+    tools: ["Node.js", "Git", "VS Code"],
+    systems: ["Linux", "Windows"],
+    interests: [
+        "Developer tools",
+        "Automation",
+        "Creative coding",
+        "Open source"
+    ]
 };
 ```
 
-I enjoy building useful tools, exploring technologies and turning creative ideas into real projects.
-
-Always learning. Always experimenting.
-
 ---
 
-## 02 / TECH STACK
+<h2 align="center">Tech stack</h2>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,linux,windows&theme=dark" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HTML5-102B4E?style=for-the-badge&logo=html5&logoColor=8DB9E8" />
-<img src="https://img.shields.io/badge/CSS3-102B4E?style=for-the-badge&logo=css3&logoColor=8DB9E8" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-102B4E?style=for-the-badge&logo=javascript&logoColor=8DB9E8" />
-<img src="https://img.shields.io/badge/NODE.JS-102B4E?style=for-the-badge&logo=nodedotjs&logoColor=8DB9E8" />
-
 </div>
 
 ---
 
-## 03 / PROJECTS
+<h2 align="center">Featured project</h2>
 
 <div align="center">
 
 <a href="https://github.com/saku168/DevToolbox">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saku168&repo=DevToolbox&hide_border=true&bg_color=071426&title_color=8DB9E8&text_color=EAF3FF&icon_color=2563A6" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=saku168&repo=DevToolbox&theme=transparent&hide_border=true&title_color=8DB9E8&text_color=EAF3FF&icon_color=4B91D1" />
+
 </a>
 
 </div>
 
 ---
 
-## 04 / GITHUB STATS
+<h2 align="center">GitHub activity</h2>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=saku168&show_icons=true&hide_border=true&bg_color=071426&title_color=8DB9E8&text_color=EAF3FF&icon_color=4B91D1&ring_color=2563A6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saku168&show_icons=true&hide_border=true&theme=transparent&title_color=8DB9E8&text_color=EAF3FF&icon_color=4B91D1" />
 
-<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saku168&layout=compact&hide_border=true&theme=transparent&title_color=8DB9E8&text_color=EAF3FF" />
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saku168&layout=compact&hide_border=true&bg_color=071426&title_color=8DB9E8&text_color=EAF3FF" />
+<br/><br/>
 
-<br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=saku168&hide_border=true&background=071426&ring=2563A6&fire=8DB9E8&currStreakLabel=8DB9E8&sideLabels=8DB9E8&dates=8DB9E8&currStreakNum=EAF3FF&sideNums=EAF3FF" />
+<img width="80%" src="https://streak-stats.demolab.com?user=saku168&hide_border=true&background=00000000&ring=2563A6&fire=8DB9E8&currStreakLabel=8DB9E8&sideLabels=8DB9E8&dates=8DB9E8&currStreakNum=EAF3FF&sideNums=EAF3FF" />
 
 </div>
 
 ---
 
-## 05 / CURRENT FOCUS
+<h2 align="center">Currently working on</h2>
 
-- Improving my JavaScript and Node.js skills.
-- Building useful developer tools.
-- Exploring Linux and automation.
-- Creating and contributing to open-source projects.
+<div align="center">
+
+🔹 Improving my JavaScript skills
+
+🔹 Building useful tools
+
+🔹 Exploring Linux & automation
+
+🔹 Learning new technologies
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563A6,50:102B4E,100:071426&height=145&section=footer&text=THANKS%20FOR%20VISITING&fontSize=27&fontColor=EAF3FF&fontAlignY=55" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:245C94,50:0B1D35,100:050A14" />
 
-<sub>© 2026 saku168 · Made with code and curiosity.</sub>
-
-<br/><br/>
-
-`✦` `BLUE IS THE NEW BLACK` `✦`
+<sub>Code • Create • Improve</sub>
 
 </div>
