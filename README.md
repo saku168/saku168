@@ -32,3 +32,9 @@ A collection of free and useful developer tools.
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saku168&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saku168&layout=compact&theme=tokyonight)
