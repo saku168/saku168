@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**saku168/saku168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Saku!
 
-Here are some ideas to get you started:
+### 🚀 Beginner Developer | Learning Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm learning how to build websites and useful tools with code.
+
+## 🛠️ My Skills
+
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 📚 Always learning new things!
+
+## 🚀 My Projects
+
+### DevToolbox
+
+A collection of free and useful developer tools.
+
+🔗 [Visit DevToolbox](https://saku168.github.io/DevToolbox/)
+
+## 🎯 My Goals
+
+- Improve my coding skills
+- Build useful projects
+- Learn new technologies
+- Contribute to open-source projects
+
+---
+
+⭐ Thanks for visiting my profile!
