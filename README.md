@@ -72,4 +72,21 @@ Hey! I'm **Saku** — a developer who likes experimenting, building useful stuff
 
 ---
 
+## <code>05 / GITHUB BADGES</code>
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/saku168?style=for-the-badge&logo=github&color=163B63&labelColor=050A14)
+![Stars](https://img.shields.io/github/stars/saku168?style=for-the-badge&logo=github&color=245C94&labelColor=050A14)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsaku168&color=163B63&labelColor=050A14)
+![Profile views](https://komarev.com/ghpvc/?username=saku168&style=for-the-badge&color=245C94&label=PROFILE+VIEWS)
+
+![DevToolbox commits](https://img.shields.io/github/last-commit/saku168/DevToolbox?style=for-the-badge&color=163B63&labelColor=050A14)
+![License](https://img.shields.io/github/license/saku168/DevToolbox?style=for-the-badge&color=245C94&labelColor=050A14)
+![Repo size](https://img.shields.io/github/repo-size/saku168/DevToolbox?style=for-the-badge&color=163B63&labelColor=050A14)
+
+</div>
+
+---
+
 <div align="center"><sub><code>EOF // Thanks for visiting.</code></sub><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:245C94,50:0B1D35,100:050A14&animation=fadeIn" /></div>
