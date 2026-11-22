@@ -1,125 +1,116 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFB7D5,30:E9B7FF,70:C4D9FF,100:FFE1EC&text=SAKU168&fontSize=75&fontColor=FFFFFF&fontAlignY=42&desc=♡%20MY%20LITTLE%20PIXEL%20WORLD%20♡&descSize=18&descAlignY=65&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FFB7D5,35:FFCBE4,70:E8CCFF,100:B9E5FF&text=SAKU168&fontSize=85&fontColor=FFFFFF&fontAlignY=40&desc=♡%20WELCOME%20TO%20MY%20PIXEL%20WORLD%20♡&descSize=18&descAlignY=65&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2000&pause=800&color=EC91C0&center=true&vCenter=true&width=600&lines=Welcome+to+my+little+world+%F0%9F%8E%80;Loading+cutie+developer...+%F0%9F%8D%93;Coding+with+love+%26+magic+%E2%9C%A8;Stay+a+little+while+%E2%99%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=2000&pause=800&color=FF82AC&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Saku+%F0%9F%8E%80;Welcome+to+my+little+world+%E2%99%A1;Coding+with+love+%26+strawberries+%F0%9F%8D%93;Let's+create+something+magical+%E2%9C%A8" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/♡_SAKU168-FFB7D5?style=for-the-badge&labelColor=FCE4EF" />
-<img src="https://img.shields.io/badge/PIXEL_WORLD-E8D2FF?style=for-the-badge&labelColor=F7F0FF" />
-<img src="https://img.shields.io/badge/LEVEL_UP-BDEBFF?style=for-the-badge&labelColor=EAF8FF" />
+<img src="https://img.shields.io/badge/♡_SAKU168-FFB7D5?style=for-the-badge&labelColor=FFF0F6&color=FFB7D5" />
+<img src="https://img.shields.io/badge/PIXEL_WORLD-D9C2FF?style=for-the-badge&labelColor=F8F0FF&color=D9C2FF" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-B9E5FF?style=for-the-badge&labelColor=F0FAFF&color=B9E5FF" />
 
 <br/><br/>
 
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cute-pixel.gif" width="180"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB7D5&height=3&width=500" />
 
 </div>
 
----
-
-<div align="center">
-
-## 🌸 ୨୧ ABOUT ME ୨୧
-
-<img src="https://img.shields.io/badge/HELLO!-FFC1DC?style=flat-square" />
-<img src="https://img.shields.io/badge/PLAYER%20001-E8D2FF?style=flat-square" />
-
-</div>
+## 🎀 ABOUT ME
 
 ```js
 const saku = {
-    name: "Saku",
-    username: "saku168",
-    class: "Developer 🎀",
-
-    skills: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Node.js"
-    ],
-
-    systems: ["Linux", "Windows"],
-
-    interests: [
-        "Creative coding",
-        "Developer tools",
-        "Automation",
-        "Open Source"
-    ],
-
-    currentQuest: "Building cool projects 🍓",
-    mood: "Creating something magical ♡"
+  username: "saku168",
+  role: "Developer",
+  technologies: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Node.js"
+  ],
+  systems: ["Linux", "Windows"],
+  interests: [
+    "Creative coding",
+    "Developer tools",
+    "Automation",
+    "Open Source"
+  ],
+  motto: "Dream it. Code it. Make it real. ♡"
 };
 ```
 
+I'm a developer who loves building useful tools, exploring technologies and turning creative ideas into real projects.
+
+Always learning, always creating! 🍓
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFDBEA&height=3&section=header" width="90%"/>
-
-## 🎮 ୨୧ MY TECH INVENTORY ୨୧
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,linux,windows&theme=light" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HTML5-FFC1DC?style=for-the-badge&logo=html5&logoColor=AA6483"/>
-<img src="https://img.shields.io/badge/CSS3-DCC8FF?style=for-the-badge&logo=css3&logoColor=8265A8"/>
-<img src="https://img.shields.io/badge/JavaScript-FFF0B8?style=for-the-badge&logo=javascript&logoColor=92752F"/>
-<img src="https://img.shields.io/badge/Node.js-CDECCB?style=for-the-badge&logo=nodedotjs&logoColor=548B59"/>
+<img src="https://img.shields.io/badge/CREATIVITY-FFB7D5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CODING-D9C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DREAMING-B9E5FF?style=for-the-badge"/>
 
 </div>
 
 ---
 
+## 🍡 MY TECH STACK
+
 <div align="center">
 
-## 🍓 ୨୧ MY LITTLE PROJECTS ୨୧
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,linux,windows&theme=light"/>
 
-<img src="https://img.shields.io/badge/PROJECT%20SELECT-FFC1DC?style=for-the-badge" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-FFB7D5?style=for-the-badge&logo=html5&logoColor=AD6386"/>
+<img src="https://img.shields.io/badge/CSS3-D9C2FF?style=for-the-badge&logo=css3&logoColor=8064A5"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-FFF0C2?style=for-the-badge&logo=javascript&logoColor=92752F"/>
+<img src="https://img.shields.io/badge/NODE.JS-C7F3D0?style=for-the-badge&logo=nodedotjs&logoColor=548B59"/>
 
 </div>
 
+---
+
+## 🧁 FEATURED PROJECTS
+
 <table>
 <tr>
-<td width="50%" align="center" bgcolor="#FFF0F6">
+<td width="50%" align="center">
 
 ### 🎀 DevToolbox
 
-<img src="https://img.shields.io/badge/TOOLBOX-FFB7D5?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROJECT_01-FFB7D5?style=flat-square"/>
 
-A collection of useful tools for developers.
+A collection of useful tools designed to make developers' lives easier.
 
 <br/>
 
-<img src="https://img.shields.io/badge/WEB-FFE1EC?style=flat-square"/>
-<img src="https://img.shields.io/badge/TOOLS-E8D2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/PRODUCTIVITY-FFE1EC?style=flat-square"/>
+<img src="https://img.shields.io/badge/WEB-D9C2FF?style=flat-square"/>
 
 <br/><br/>
 
 <a href="https://github.com/saku168?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-EC91C0?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-FF82AC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-<td width="50%" align="center" bgcolor="#F4EEFF">
+<td width="50%" align="center">
 
 ### 🧬 CodeDNA
 
-<img src="https://img.shields.io/badge/CODEDNA-CDB8FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROJECT_02-D9C2FF?style=flat-square"/>
 
-Visualize and understand your code architecture.
+Visualize and understand code architecture.
 
 <br/>
 
-<img src="https://img.shields.io/badge/CODE-E8D2FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/VISUALIZATION-D7EDFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/CODE-B9E5FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/VISUALIZATION-FFF0C2?style=flat-square"/>
 
 <br/><br/>
 
 <a href="https://github.com/saku168?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-AE94E8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-B69AE8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -128,41 +119,39 @@ Visualize and understand your code architecture.
 
 ---
 
+## 💗 GITHUB STATISTICS
+
 <div align="center">
 
-## 💗 ୨୧ GITHUB STATISTICS ୨୧
-
-<img src="https://img.shields.io/badge/MY%20CODING%20JOURNEY-FFC1DC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MY%20CODING%20JOURNEY-FFB7D5?style=for-the-badge"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=saku168&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=DF83B1&icon_color=B99AE8&text_color=96758C&ring_color=F2A8CB"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=saku168&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=E58BB8&icon_color=FF82AC&text_color=96758C&ring_color=FFB7D5"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saku168&layout=compact&hide_border=true&bg_color=F4EEFF&title_color=B18BE0&text_color=96758C"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saku168&layout=compact&hide_border=true&bg_color=F8F0FF&title_color=B69AE8&text_color=96758C"/>
 
 <br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=saku168&theme=default&hide_border=true&background=FFF0F6&ring=E99AC4&fire=F5B5CC&currStreakLabel=D987B2&sideLabels=96758C&dates=B69BE8"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=saku168&theme=default&hide_border=true&background=FFF0F6&ring=FFB7D5&fire=FF82AC&currStreakLabel=E58BB8&sideLabels=96758C&dates=B69AE8"/>
 
 </div>
 
 ---
 
+## 🌸 MY QUEST LOG
+
 <div align="center">
-
-## 🧁 ୨୧ MY QUESTS ୨୧
-
-<img src="https://img.shields.io/badge/QUEST%20LOG-FFC1DC?style=for-the-badge"/>
 
 | Quest | Status |
 |:---|:---:|
 | Learn JavaScript | 🌸 |
 | Explore Node.js | 🎀 |
-| Build creative projects | ⭐ |
-| Improve my coding skills | 🍓 |
-| Create something awesome | 💗 |
+| Build creative projects | 🍓 |
+| Improve my coding skills | ⭐ |
+| Create open-source projects | 💗 |
 
 </div>
 
@@ -170,13 +159,11 @@ Visualize and understand your code architecture.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFC1DC,50:E8D2FF,100:BDEBFF&height=120&text=THANK%20YOU!%20%E2%99%A1&fontColor=FFFFFF&fontSize=40&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB7D5,50:E8CCFF,100:B9E5FF&height=160&section=footer&text=THANK%20YOU!%20%E2%99%A1&fontSize=45&fontColor=FFFFFF&animation=twinkling"/>
 
 **Thanks for visiting my little pixel world!**
 
-<img src="https://img.shields.io/badge/MADE%20WITH-LOVE-FFB7D5?style=for-the-badge&logo=heart&logoColor=white"/>
-
-<br/>
+<img src="https://img.shields.io/badge/MADE%20WITH%20LOVE-FFB7D5?style=for-the-badge&logo=heart&logoColor=white"/>
 
 `♡` `✧` `🍓` `🎀` `🐰` `✧` `♡`
 
