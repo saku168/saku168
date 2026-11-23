@@ -1,39 +1,59 @@
-# Hey, I'm Saku! 👋
+# Hi, I'm Saku 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C83FD&center=true&vCenter=true&width=500&lines=Curious+mind+%F0%9F%%8C%1F;Learning+to+code+step+by+step+%F0%9F%%9A%80;One+project+at+a+time+%E2%9C%A8" alt="Typing SVG" />
+  <strong>Beginner developer • Learning by building • Curious about technology</strong>
 </p>
 
 <p align="center">
-  <em>Beginner today. Better than yesterday.</em>
+  I’m learning programming one project at a time. This profile is my public learning journal:
+  small experiments, practical tools, and ideas that I improve as I go.
 </p>
 
 ---
 
-### 🌱 A little about me
+## 🌱 About me
 
-- 👋 I'm **Saku**, and I'm just getting started with programming.
-- 🧠 Currently learning the fundamentals and figuring things out one step at a time.
-- 🛠️ Using GitHub to share experiments, small projects, and everything I learn along the way.
-- ✨ I believe progress matters more than pretending to know it all.
+- 📚 Learning the fundamentals of programming and web development.
+- 🧩 Building small projects to practise what I learn.
+- 🔧 Exploring HTML, CSS, JavaScript, Python, Java, and Git.
+- 🚀 Interested in making useful, simple tools.
+- 💡 I’m a beginner, so my projects are learning projects and will keep improving.
 
-### 🎯 My current goals
+## 🛠️ Technologies I'm exploring
 
-- Learn the basics of programming.
-- Get comfortable with Git and GitHub.
-- Build my first small projects.
-- Keep learning, stay curious, and improve at my own pace.
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
-### 📌 What's on this profile?
+## ⭐ Projects to explore
 
-You'll find beginner projects, experiments, ideas, and works in progress. Things may be simple for now, but this is where my journey begins!
+| Project | What it does |
+| --- | --- |
+| [Digital Clock](https://github.com/saku168/digital-clock) | A simple live clock in the browser. |
+| [Random Quote Generator](https://github.com/saku168/random-quote-generator) | Displays a random quote. |
+| [Simple Calculator](https://github.com/saku168/simple-calculator) | Practises basic calculator operations. |
+| [To-do List](https://github.com/saku168/todo-list) | Keeps track of tasks in the browser. |
+| [Color Picker](https://github.com/saku168/color-picker) | Experiments with colours and colour values. |
+| [Weather UI](https://github.com/saku168/weather-ui) | A weather interface demo with sample data. |
+| [QR Code Generator](https://github.com/saku168/qr-code-generator) | Creates QR codes using an online service. |
+| [Password Checker](https://github.com/saku168/password-checker) | Gives local feedback about password strength. |
+| [Countdown Timer](https://github.com/saku168/countdown-timer) | Counts down to a chosen time. |
+
+## 🎯 What I'm working on
+
+- Practising JavaScript and writing clearer code.
+- Learning Git and GitHub workflows.
+- Improving existing projects instead of only starting new ones.
+- Adding explanations and instructions so other beginners can try my projects.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saku168&show_icons=true&theme=tokyonight&hide_border=true" alt="Saku's GitHub stats" />
-</p>
-
-<p align="center">
-  <sub>Thanks for stopping by! ⭐</sub>
+  <em>Learning in public, one commit at a time.</em><br>
+  Thanks for visiting! ⭐
 </p>
