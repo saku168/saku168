@@ -9,6 +9,10 @@
   small experiments, practical tools, and ideas that I improve as I go.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saku168&style=flat-square&color=blue" alt="Profile views">
+</p>
+
 ---
 
 ## 🌱 About me
@@ -28,6 +32,20 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saku168&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saku168&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saku168&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 </p>
 
 ## ⭐ Projects to explore
@@ -50,6 +68,13 @@
 - Learning Git and GitHub workflows.
 - Improving existing projects instead of only starting new ones.
 - Adding explanations and instructions so other beginners can try my projects.
+
+## 🤝 How to explore my projects
+
+1. Open a repository from the project list above.
+2. Read its README for features and setup instructions.
+3. Open `index.html` in a browser for the web projects.
+4. Suggestions and constructive feedback are welcome!
 
 ---
 
