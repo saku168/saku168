@@ -1,24 +1,39 @@
-# Salut, moi c'est Saku 👋
+# Hey, I'm Saku! 👋
 
-Bienvenue sur mon profil GitHub !
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C83FD&center=true&vCenter=true&width=500&lines=Curious+mind+%F0%9F%%8C%1F;Learning+to+code+step+by+step+%F0%9F%%9A%80;One+project+at+a+time+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-Je débute dans le monde de la programmation et je pars presque de zéro. Pour le moment, je découvre le code, j'apprends les bases et j'essaie de comprendre comment les choses fonctionnent.
-
-## 🌱 Ce que je fais en ce moment
-
-- Découvrir la programmation
-- Apprendre petit à petit, à mon rythme
-- Faire mes premiers essais
-- Progresser en créant de petits projets
-
-## 🛠️ Ce que tu trouveras ici
-
-Des essais, des projets en cours d'apprentissage et sûrement quelques erreurs aussi. Je compte garder une trace de mes progrès et m'améliorer avec le temps.
-
-## 🎯 Mon objectif
-
-Apprendre à coder suffisamment bien pour pouvoir créer mes propres projets, sans brûler les étapes.
+<p align="center">
+  <em>Beginner today. Better than yesterday.</em>
+</p>
 
 ---
 
-*Débutant aujourd'hui, un peu moins demain. Merci d'être passé !* 🙂
+### 🌱 A little about me
+
+- 👋 I'm **Saku**, and I'm just getting started with programming.
+- 🧠 Currently learning the fundamentals and figuring things out one step at a time.
+- 🛠️ Using GitHub to share experiments, small projects, and everything I learn along the way.
+- ✨ I believe progress matters more than pretending to know it all.
+
+### 🎯 My current goals
+
+- Learn the basics of programming.
+- Get comfortable with Git and GitHub.
+- Build my first small projects.
+- Keep learning, stay curious, and improve at my own pace.
+
+### 📌 What's on this profile?
+
+You'll find beginner projects, experiments, ideas, and works in progress. Things may be simple for now, but this is where my journey begins!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saku168&show_icons=true&theme=tokyonight&hide_border=true" alt="Saku's GitHub stats" />
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by! ⭐</sub>
+</p>
