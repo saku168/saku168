@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Level-Beginner-blue?style=flat-square" alt="Current learning level: beginner">
+</p>
+
+<p align="center">
   I’m learning programming one project at a time. This profile is my public learning journal:
   small experiments, practical tools, and ideas that I improve as I go.
 </p>
